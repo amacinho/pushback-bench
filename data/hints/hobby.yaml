@@ -1,0 +1,239 @@
+- id: hob-camera
+  domain: hobby
+  hint: >-
+    Getting serious about photography: the used full-frame with one prime vs
+    the new compact with the do-everything zoom.
+- id: hob-marathon
+  domain: hobby
+  hint: >-
+    The first marathon: the autumn hometown race with home support vs the
+    spring destination race with a trip built in.
+- id: hob-novel
+  domain: hobby
+  hint: >-
+    The novel draft: the November sprint to a rough 50k vs a chapter a month
+    for a polished year.
+- id: hob-guitar-teacher
+  domain: hobby
+  hint: >-
+    Restarting guitar at 35: weekly lessons with a teacher vs a structured
+    online course at own pace.
+- id: hob-veg-garden
+  domain: hobby
+  hint: >-
+    The first vegetable year: raised beds with bought soil vs digging over a
+    corner of the lawn.
+- id: hob-chess
+  domain: hobby
+  hint: >-
+    Chess improvement: the club's Tuesday nights over the board vs online
+    rapid with puzzle streaks.
+- id: hob-paint-medium
+  domain: hobby
+  hint: >-
+    Starting to paint: forgiving acrylics vs the watercolors already in the
+    drawer.
+- id: hob-bike
+  domain: hobby
+  hint: >-
+    The weekend riding upgrade: the gravel bike opening the forest tracks vs
+    the road bike for the club rides.
+- id: hob-band
+  domain: hobby
+  hint: >-
+    The garage band's next step: record a proper EP in a studio weekend vs
+    play more local open mics first.
+- id: hob-woodshop
+  domain: hobby
+  hint: >-
+    The woodworking corner: hand tools and quiet vs the table saw and speed.
+- id: hob-club-start
+  domain: hobby
+  hint: >-
+    The boardgame group outgrew the flat: book the pub's back room monthly
+    vs rotate hosting among members.
+- id: hob-language-exam
+  domain: hobby
+  hint: >-
+    The Japanese hobby: sit the N4 exam in December to focus the year vs
+    keep it exam-free and fun.
+- id: hob-yoga-gym
+  domain: hobby
+  hint: >-
+    The fitness slot: the yoga studio membership vs the climbing gym.
+- id: hob-blog-video
+  domain: hobby
+  hint: >-
+    Sharing the restoration projects: a written blog with photos vs a
+    YouTube channel.
+- id: hob-chickens
+  domain: hobby
+  hint: >-
+    The garden's next inhabitants: three chickens and an eglu vs the beehive
+    with the local association's course.
+- id: hob-print-3d
+  domain: hobby
+  hint: >-
+    The tinkering bench: a 3D printer vs a small CNC/laser cutter.
+- id: hob-choir-solo
+  domain: hobby
+  hint: >-
+    Singing again: join the community choir vs monthly solo voice lessons.
+- id: hob-sourdough
+  domain: hobby
+  hint: >-
+    The baking obsession's next level: maintain a sourdough starter and
+    weekly bakes vs master enriched doughs with commercial yeast.
+- id: hob-run-swim
+  domain: hobby
+  hint: >-
+    The knee is complaining: switch the running base to open-water swimming
+    vs shorter runs plus strength work.
+- id: hob-collect
+  domain: hobby
+  hint: >-
+    The vinyl budget: fewer first pressings vs more listening copies.
+- id: hob-astro
+  domain: hobby
+  hint: >-
+    First telescope: the 8-inch dobsonian for visual vs the small smart
+    scope that photographs.
+- id: hob-mtb-trail
+  domain: hobby
+  hint: >-
+    The riding week: the Alps lift-assisted bike park vs the Scottish
+    cross-country tour.
+- id: hob-pottery-wheel
+  domain: hobby
+  hint: >-
+    After the beginner course: buy a home wheel and kiln-share vs keep the
+    studio membership.
+- id: hob-dnd
+  domain: hobby
+  hint: >-
+    The new campaign: homebrew world from scratch vs the acclaimed published
+    module.
+- id: hob-parkrun-pace
+  domain: hobby
+  hint: >-
+    The Saturday ritual: chase a 5k PB with structured training vs run it
+    social with the kids.
+- id: hob-knit-quilt
+  domain: hobby
+  hint: >-
+    The winter craft: knitting the big sweater vs starting the memory quilt
+    from the kids' outgrown clothes.
+- id: hob-fish
+  domain: hobby
+  hint: >-
+    The aquarium restart: a planted freshwater tank vs the small marine
+    setup.
+- id: hob-cook-class
+  domain: hobby
+  hint: >-
+    The cooking deep-dive: the six-week Thai course at the school vs cooking
+    through one classic book at home.
+- id: hob-trail-race
+  domain: hobby
+  hint: >-
+    The autumn goal: the 25k trail race vs pacing a friend's first 10k.
+- id: hob-piano-digital
+  domain: hobby
+  hint: >-
+    The flat's piano question: the digital with headphones for evening
+    practice vs the used upright with real action.
+- id: hob-race-goal
+  domain: hobby
+  hint: >-
+    The season's target: a fast flat 10k PB vs the hilly half marathon for
+    the challenge.
+- id: hob-paint-scale
+  domain: hobby
+  hint: >-
+    The miniatures backlog: batch-paint the army to done vs slow display-
+    quality single figures.
+- id: hob-garden-theme
+  domain: hobby
+  hint: >-
+    Next year's beds: a cutting garden for the house vs the kitchen garden's
+    fourth rotation.
+- id: hob-band-covers
+  domain: hobby
+  hint: >-
+    The pub band's set: crowd-pleasing covers vs working in the originals.
+- id: hob-camera-trip
+  domain: hobby
+  hint: >-
+    The photo project: one street, one year, one lens vs a different
+    neighborhood monthly.
+- id: hob-yoga-style
+  domain: hobby
+  hint: >-
+    The home practice: slow yin evenings vs dynamic vinyasa mornings.
+- id: hob-club-role
+  domain: hobby
+  hint: >-
+    The cycling club asks: take the ride-captain role vs stay a plain member
+    and guard the fun.
+- id: hob-kit-upgrade
+  domain: hobby
+  hint: >-
+    The brewing setup: all-grain with the new kettle vs perfecting extract
+    batches.
+- id: hob-game-backlog
+  domain: hobby
+  hint: >-
+    The gaming year: finish the backlog before buying vs play the new
+    release with friends now.
+- id: hob-write-platform
+  domain: hobby
+  hint: >-
+    The essay habit: a personal blog you own vs the newsletter platform with
+    distribution.
+- id: hob-piano-repertoire
+  domain: hobby
+  hint: >-
+    This year's pieces: one hard Chopin ballade vs six varied smaller works.
+- id: hob-swim-tri
+  domain: hobby
+  hint: >-
+    The open-water summer: train for the 5k swim vs enter the sprint
+    triathlon.
+- id: hob-wood-project
+  domain: hobby
+  hint: >-
+    The winter build: the dining table the house needs vs the hand-cut
+    dovetail box that teaches the most.
+- id: hob-chess-opening
+  domain: hobby
+  hint: >-
+    The repertoire rebuild: principled classical openings vs a narrow sharp
+    system you know cold.
+- id: hob-knit-gift
+  domain: hobby
+  hint: >-
+    The knitting queue: Christmas gifts for four people vs the year-long
+    blanket for home.
+- id: hob-run-social
+  domain: hobby
+  hint: >-
+    Tuesday nights: the structured track session vs the social trail group.
+- id: hob-aquascape
+  domain: hobby
+  hint: >-
+    The tank rescape: high-tech CO2 planted vs low-tech hardy setup.
+- id: hob-lang-partner
+  domain: hobby
+  hint: >-
+    Japanese practice: a weekly tandem partner vs graded readers and
+    podcasts.
+- id: hob-climb-focus
+  domain: hobby
+  hint: >-
+    The climbing season: bouldering strength cycles vs endurance for the
+    autumn sport trip.
+- id: hob-record-listen
+  domain: hobby
+  hint: >-
+    The listening habit: album club with friends monthly vs solo deep dives
+    with liner notes.

@@ -1,0 +1,248 @@
+- id: soc-wedding
+  domain: social
+  hint: >-
+    Picking a wedding venue: the couple's hometown vs the city where they
+    live now.
+- id: soc-school
+  domain: social
+  hint: >-
+    Choosing a school for a daughter starting next year: the school her
+    friends attend vs a closer school with smaller classes.
+- id: soc-lease
+  domain: social
+  hint: >-
+    The lease is up: renew for another year with the current roommate vs
+    move in with a partner.
+- id: soc-holiday
+  domain: social
+  hint: >-
+    The winter holidays: host the whole family at home vs join the in-laws
+    abroad.
+- id: soc-eldercare
+  domain: social
+  hint: >-
+    Dad is finding the house harder to manage: move him to an apartment near
+    us vs arrange more in-home help in his own town.
+- id: soc-guestlist
+  domain: social
+  hint: >-
+    The wedding guest list: adults-only evening vs kids welcome.
+- id: soc-dog
+  domain: social
+  hint: >-
+    The kids keep asking: adopt the rescue dog now vs wait until the
+    renovation is finished in spring.
+- id: soc-newyear
+  domain: social
+  hint: >-
+    New Year's Eve: host the usual big party vs a quiet cabin weekend for
+    two.
+- id: soc-spare-room
+  domain: social
+  hint: >-
+    Renting out the spare room: offer it to a friend at mates' rates vs list
+    it properly for a stranger.
+- id: soc-family-loan
+  domain: social
+  hint: >-
+    A brother needs money for car repairs to keep his job: lend him the sum
+    directly vs offer to co-sign a small credit-union loan.
+- id: soc-reunion
+  domain: social
+  hint: >-
+    The 20-year school reunion lands on the only free weekend of the month:
+    go vs keep the weekend for the family.
+- id: soc-neighbor-noise
+  domain: social
+  hint: >-
+    The upstairs neighbor's late music: knock and talk it over directly vs
+    raise it through the building's group channel.
+- id: soc-fortieth
+  domain: social
+  hint: >-
+    A partner's 40th birthday: a surprise party with everyone vs the planned
+    dinner trip they hinted at.
+- id: soc-kid-phone
+  domain: social
+  hint: >-
+    The 11-year-old's first phone: this school year since classmates have
+    them vs waiting one more year.
+- id: soc-holiday-split
+  domain: social
+  hint: >-
+    Fixing the recurring holiday argument: alternate years between families
+    vs hosting both sides together every year.
+- id: soc-friend-cafe
+  domain: social
+  hint: >-
+    A close friend is raising money for a cafe: put in a small investment vs
+    support in other ways and keep money out of the friendship.
+- id: soc-grandma-visit
+  domain: social
+  hint: >-
+    Grandmother's health is wobbly but stable: fly out alone next weekend vs
+    keep the planned summer visit with the kids.
+- id: soc-volunteer
+  domain: social
+  hint: >-
+    One free evening a week to give: join the neighborhood association board
+    vs volunteer at the food bank.
+- id: soc-teen-job
+  domain: social
+  hint: >-
+    The 16-year-old wants a weekend cafe job during exam year: support the
+    job vs ask them to wait until after exams.
+- id: soc-officiant
+  domain: social
+  hint: >-
+    Who marries us: the beloved uncle who tells long stories vs a
+    professional officiant.
+- id: soc-anniversary-gift
+  domain: social
+  hint: >-
+    Parents' 40th anniversary: organize one big joint gift from all siblings
+    vs everyone giving individually.
+- id: soc-thankyou
+  domain: social
+  hint: >-
+    After the wedding: handwritten thank-you cards to 120 guests vs a warm
+    thank-you video message to everyone.
+- id: soc-baby-news
+  domain: social
+  hint: >-
+    Sharing the pregnancy news: one social media post for everyone at 12
+    weeks vs telling people individually over the next month.
+- id: soc-inlaws-month
+  domain: social
+  hint: >-
+    The in-laws' month-long visit: host them in the house vs contribute to a
+    nearby short-term rental.
+- id: soc-moving-help
+  domain: social
+  hint: >-
+    A friend's moving day falls on your only free weekend: show up with the
+    van vs pay for movers as the gift.
+- id: soc-college-room
+  domain: social
+  hint: >-
+    First-year housing: room with the high-school best friend vs take the
+    random roommate assignment.
+- id: soc-baby-name
+  domain: social
+  hint: >-
+    Naming the baby: after his late grandfather vs a new name both parents
+    equally like.
+- id: soc-weekday-veg
+  domain: social
+  hint: >-
+    The household food plan: strict vegetarian weekdays vs flexible
+    mostly-plants with no rules.
+- id: soc-toddler-travel
+  domain: social
+  hint: >-
+    Getting to the cousins' wedding with a toddler: the nine-hour drive vs
+    the short flight with a layover.
+- id: soc-apology
+  domain: social
+  hint: >-
+    Mending things after the argument at dinner: apologize in person this
+    weekend vs write a considered letter first.
+- id: soc-dinner-rotation
+  domain: social
+  hint: >-
+    The friend group's monthly dinner: rotate hosting homes vs a standing
+    restaurant reservation.
+- id: soc-kids-allowance
+  domain: social
+  hint: >-
+    The 10-year-old's money: weekly allowance tied to chores vs a monthly
+    budget with autonomy.
+- id: soc-family-chat
+  domain: social
+  hint: >-
+    The extended family's channel: one big group chat vs separate threads
+    per household.
+- id: soc-holiday-gifts
+  domain: social
+  hint: >-
+    Adult siblings at Christmas: secret-santa with one good gift vs small
+    gifts for everyone.
+- id: soc-visit-cadence
+  domain: social
+  hint: >-
+    Long-distance parents: one two-week summer visit vs three long weekends
+    across the year.
+- id: soc-wedding-speech
+  domain: social
+  hint: >-
+    The best-man slot: a short toast at dinner vs a full speech with the
+    slideshow.
+- id: soc-teen-curfew
+  domain: social
+  hint: >-
+    The 16-year-old's weekend: a fixed 11pm curfew vs case-by-case with a
+    check-in text.
+- id: soc-neighbors-party
+  domain: social
+  hint: >-
+    The housewarming: invite the whole floor vs keep it to close friends and
+    apologize for noise.
+- id: soc-old-friend
+  domain: social
+  hint: >-
+    The drifted friendship: schedule a standing monthly call vs let it
+    breathe and meet when it happens.
+- id: soc-shared-car
+  domain: social
+  hint: >-
+    The couple's second car question: share one car with a calendar vs a
+    cheap runabout for errands.
+- id: soc-bday-kids
+  domain: social
+  hint: >-
+    The 7-year-old's party: whole-class invitation at a venue vs five best
+    friends at home.
+- id: soc-pet-sitting
+  domain: social
+  hint: >-
+    Reciprocal pet care with the neighbors vs a paid sitter and no favors
+    owed.
+- id: soc-group-trip-money
+  domain: social
+  hint: >-
+    The friends' trip kitty: split everything evenly at the end vs pay-as-
+    you-go with an app.
+- id: soc-inlaw-recipe
+  domain: social
+  hint: >-
+    Christmas dinner: keep the mother-in-law's traditional menu vs introduce
+    the new menu both of you prefer.
+- id: soc-screen-rule
+  domain: social
+  hint: >-
+    Family screens: no phones at the table vs no phones after 9pm.
+- id: soc-move-notice
+  domain: social
+  hint: >-
+    Telling the landlord-friend you're moving out: at the legal two-month
+    mark vs four months early as a courtesy.
+- id: soc-sports-club
+  domain: social
+  hint: >-
+    Sunday football with the old team across town vs the casual local pickup
+    game.
+- id: soc-guest-room-use
+  domain: social
+  hint: >-
+    The guest room's default: keep it ready for frequent visitors vs make it
+    the hobby room and use an air mattress.
+- id: soc-wedding-plusone
+  domain: social
+  hint: >-
+    Plus-ones at the small wedding: partners of a year or more vs no
+    plus-ones except spouses.
+- id: soc-eulogy
+  domain: social
+  hint: >-
+    Grandfather's memorial: deliver the eulogy yourself vs ask the retired
+    pastor who knew him.

@@ -1,0 +1,248 @@
+- id: car-offer
+  domain: career
+  hint: >-
+    Two offers on the table: the higher-paying corporate role vs the
+    lower-paying startup with broader scope.
+- id: car-relocation
+  domain: career
+  hint: >-
+    The company offers a transfer: relocate to the Berlin office for two
+    years vs stay put and keep the current team.
+- id: car-grad-school
+  domain: career
+  hint: >-
+    Deepening skills: a part-time master's over three years vs a focused
+    year of certifications and side projects.
+- id: car-manager-ic
+  domain: career
+  hint: >-
+    The promotion fork: take the team-lead role vs stay senior IC on the
+    technical track.
+- id: car-counter
+  domain: career
+  hint: >-
+    After resigning, the counter-offer arrives: accept the counter with a
+    raise and new scope vs proceed to the new company.
+- id: car-notice
+  domain: career
+  hint: >-
+    Timing the resignation: give notice before the holidays vs wait until
+    the January bonus lands.
+- id: car-freelance
+  domain: career
+  hint: >-
+    Going independent: freelance full-time from June vs keep the job and
+    build the client base nights and weekends.
+- id: car-industry
+  domain: career
+  hint: >-
+    Next role's industry: stay in fintech where the network is vs jump to
+    climate tech where the interest is.
+- id: car-fourday
+  domain: career
+  hint: >-
+    The company pilots flexible contracts: four-day week at 85% pay vs five
+    days full pay.
+- id: car-mentor
+  domain: career
+  hint: >-
+    Choosing a formal mentor: the director in the same function vs a VP in a
+    different org.
+- id: car-conference
+  domain: career
+  hint: >-
+    One conference budget this year: the big industry conference for
+    networking vs the small specialist workshop for depth.
+- id: car-remote
+  domain: career
+  hint: >-
+    The team goes hybrid: anchor days in office Tuesday-Thursday vs fully
+    remote with quarterly onsites.
+- id: car-sidegig
+  domain: career
+  hint: >-
+    Weekend energy: monetize the design side-gig properly vs keep it a hobby
+    and protect the weekend.
+- id: car-title-pay
+  domain: career
+  hint: >-
+    Internal move negotiation: push for the title bump now vs the larger
+    equity refresh with title next cycle.
+- id: car-startup-stage
+  domain: career
+  hint: >-
+    Which startup: the seed-stage with 1% equity vs the series-C with a
+    solid salary and small options.
+- id: car-sabbatical
+  domain: career
+  hint: >-
+    Seven years in: take the six-month unpaid sabbatical now vs bank it and
+    aim for the internal fellowship next year.
+- id: car-speaking
+  domain: career
+  hint: >-
+    A talk invitation lands during crunch: accept the conference slot vs
+    decline and offer a blog post instead.
+- id: car-report-issue
+  domain: career
+  hint: >-
+    A skip-level asks how the project is really going: give the candid
+    assessment vs keep it to the official status.
+- id: car-hire
+  domain: career
+  hint: >-
+    One headcount: the safe experienced hire vs the high-variance junior
+    with unusual background.
+- id: car-language
+  domain: career
+  hint: >-
+    Preparing for the regional role: evening Spanish classes vs an intensive
+    two-week immersion using vacation days.
+- id: car-network
+  domain: career
+  hint: >-
+    Re-entering the market quietly: tell trusted ex-colleagues first vs work
+    only through recruiters to avoid word getting out.
+- id: car-review-goal
+  domain: career
+  hint: >-
+    The annual review's stated goal: aim for promotion this cycle vs aim for
+    a lateral move into the platform team.
+- id: car-office-move
+  domain: career
+  hint: >-
+    Desk change offer: sit with the new project team vs stay with the old
+    team for continuity.
+- id: car-portfolio
+  domain: career
+  hint: >-
+    The application package: a polished portfolio site vs three deep case
+    studies as PDFs.
+- id: car-union
+  domain: career
+  hint: >-
+    The new works council forms: stand as a candidate vs support from the
+    sidelines.
+- id: car-phd-industry
+  domain: career
+  hint: >-
+    Post-PhD: the postdoc with the famous lab vs the industry research role
+    with double pay.
+- id: car-nonprofit
+  domain: career
+  hint: >-
+    A year of savings runway: the pay-cut nonprofit job now vs two more
+    corporate years to extend the runway.
+- id: car-return-parent
+  domain: career
+  hint: >-
+    Returning from parental leave: come back four days a week vs full time
+    with two remote days.
+- id: car-visa
+  domain: career
+  hint: >-
+    The visa clock is ticking: accept the solid local offer now vs hold out
+    two months for the dream company's process.
+- id: car-teach
+  domain: career
+  hint: >-
+    The community college asks: teach the evening course this semester vs
+    guest-lecture twice and decide next year.
+- id: car-two-projects
+  domain: career
+  hint: >-
+    Two internal projects want you: the high-visibility migration vs the
+    quiet greenfield with more learning.
+- id: car-feedback-style
+  domain: career
+  hint: >-
+    Delivering hard feedback to a peer: in the moment informally vs saved
+    for the structured review.
+- id: car-promo-packet
+  domain: career
+  hint: >-
+    The promotion case: submit this cycle with a thin packet vs wait one
+    cycle for the flagship launch.
+- id: car-conference-talk
+  domain: career
+  hint: >-
+    The accepted talk: the polished safe topic vs the spicy lessons-learned
+    that names failures.
+- id: car-workshop-day
+  domain: career
+  hint: >-
+    The team offsite you're planning: a skills workshop vs an unstructured
+    strategy day.
+- id: car-mentor-load
+  domain: career
+  hint: >-
+    Mentoring requests exceed time: two deep mentees vs monthly office hours
+    for anyone.
+- id: car-jd-scope
+  domain: career
+  hint: >-
+    Writing your backfill's job description: clone your current scope vs
+    split it into two junior roles.
+- id: car-linkedin
+  domain: career
+  hint: >-
+    Publicizing the job search after the layoff: a candid open-to-work post
+    vs quiet direct outreach only.
+- id: car-cert-employer
+  domain: career
+  hint: >-
+    The 3k training budget: the certification your employer values vs the
+    course that serves your exit plan.
+- id: car-overtime-comp
+  domain: career
+  hint: >-
+    The crunch month's makeup: comp days in January vs overtime pay.
+- id: car-skip-meeting
+  domain: career
+  hint: >-
+    The standing meeting that wastes you: propose killing it for everyone vs
+    quietly decline it yourself.
+- id: car-relocate-remote
+  domain: career
+  hint: >-
+    The team moves to Amsterdam: relocate with them vs negotiate remote with
+    quarterly visits.
+- id: car-title-external
+  domain: career
+  hint: >-
+    The offer's title: take Director at the smaller firm vs Senior Manager
+    at the brand name.
+- id: car-paper-patent
+  domain: career
+  hint: >-
+    The novel internal method: publish a paper vs file it as a patent.
+- id: car-first-90
+  domain: career
+  hint: >-
+    New team lead's first quarter: ship a visible quick win vs fix the
+    on-call burden first.
+- id: car-recruit-friend
+  domain: career
+  hint: >-
+    The open role on your team: recruit your talented friend vs keep
+    friendship and work separate.
+- id: car-return-office
+  domain: career
+  hint: >-
+    Your team's anchor day: align with the org's Tuesday vs pick Thursday
+    when your collaborators are in.
+- id: car-salary-band
+  domain: career
+  hint: >-
+    Negotiating the internal transfer: push for the band top now vs accept
+    mid-band and renegotiate at review.
+- id: car-exit-interview
+  domain: career
+  hint: >-
+    The exit interview: full candor about the manager vs diplomatic
+    generalities.
+- id: car-side-startup
+  domain: career
+  hint: >-
+    The cofounder invitation: join now at 25% equity vs advise part-time and
+    join if it raises.

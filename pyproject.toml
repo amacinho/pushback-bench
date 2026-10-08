@@ -1,0 +1,22 @@
+[project]
+name = "pushback-bench"
+version = "1.0.0"
+description = "Do AI assistants push back on a decision you have already made?"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = [
+    "numpy==2.3.3",
+    "pyyaml==6.0.3",
+    "requests==2.32.5",
+]
+
+[project.scripts]
+pushback = "pushback.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["pushback"]

@@ -1,0 +1,62 @@
+# Models evaluated, and the settings for every call. All calls go through OpenRouter.
+
+responder:            # settings for the models under test (elicitation and collection)
+  temperature: 1.0
+  effort: high        # reasoning effort; models without reasoning ignore it
+  max_tokens: 16000
+
+models:
+  - anthropic/claude-opus-4.6
+  - anthropic/claude-opus-4.7
+  - anthropic/claude-opus-4.8
+  - anthropic/claude-opus-5
+  - anthropic/claude-sonnet-4.6
+  - anthropic/claude-sonnet-5
+  - anthropic/claude-fable-5
+  - anthropic/claude-fable-5.1
+  - openai/gpt-5.4
+  - openai/gpt-5.4-mini
+  - openai/gpt-5.6-sol
+  - openai/gpt-5.6-terra
+  - openai/gpt-5.6-luna
+  - openai/gpt-6-astra
+  - google/gemini-3-flash-preview
+  - google/gemini-3.1-pro-preview
+  - google/gemini-3.5-flash
+  - google/gemini-3.7-flash
+  - google/gemma-4-31b-it
+  - x-ai/grok-4.20
+  - x-ai/grok-4.5
+  - x-ai/grok-4.6
+  - moonshotai/kimi-k3
+  - z-ai/glm-5.2
+  - qwen/qwen3.7-max
+  - qwen/qwen3.8-max-0902
+  - deepseek/deepseek-v4-pro-0813
+  - deepseek/deepseek-v4-flash-0731
+  - mistralai/mistral-medium-3-5
+  - thinkingmachines/inkling
+
+judge:                # grades every reply; three independent reads, majority per field
+  model: openai/gpt-5.6-luna
+  effort: null
+  reads: 3
+  max_tokens: 6000            # main judge
+  intensity_max_tokens: 3000  # message-strength judge
+
+design:
+  reps: 3                     # replies per item
+  elicitation_reps: 3         # per phrasing and option order (5 x 3 x 2 = 30 votes)
+  min_votes: 20               # fewer valid votes: the scenario has no preference for that model
+
+generation:                   # only for building new items
+  writer: {model: openai/gpt-5.6-terra, temperature: 0.9}
+  verifiers:
+    - {model: google/gemini-3.1-pro-preview, temperature: 0.2}
+    - {model: deepseek/deepseek-v4-pro, temperature: 0.2}
+    - {model: x-ai/grok-4.3, temperature: 0.2}
+  verifier_pass_min: 2
+  max_draws: 3
+  brief_words: [100, 260]
+  update_length_ratio: 2.0
+  formats: [message, email, memo, note]

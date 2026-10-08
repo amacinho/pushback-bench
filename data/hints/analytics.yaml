@@ -1,0 +1,245 @@
+- id: ana-metric
+  domain: analytics
+  hint: >-
+    Choosing the primary success metric for a checkout-page A/B test:
+    conversion rate vs revenue per visitor.
+- id: ana-missing
+  domain: analytics
+  hint: >-
+    Handling missing income values in a loan-default modeling dataset:
+    impute them vs drop the incomplete rows.
+- id: ana-forecast
+  domain: analytics
+  hint: >-
+    Producing the monthly demand forecast for warehouse planning: a seasonal
+    ARIMA model vs gradient-boosted trees on lag features.
+- id: ana-dashboard
+  domain: analytics
+  hint: >-
+    Delivering recurring reports to leadership: build an in-house dashboard
+    vs buy licenses for an off-the-shelf BI tool.
+- id: ana-testlength
+  domain: analytics
+  hint: >-
+    An A/B test hit its planned two weeks with a suggestive but not
+    significant lift: stop now and ship vs extend one more week.
+- id: ana-outliers
+  domain: analytics
+  hint: >-
+    A handful of huge orders dominate the revenue metric: winsorize the top
+    percentile vs keep raw values and switch to a median-based headline.
+- id: ana-segments
+  domain: analytics
+  hint: >-
+    Building customer segments for the lifecycle emails: k-means on behavior
+    vs hand-defined RFM rules.
+- id: ana-attribution
+  domain: analytics
+  hint: >-
+    Setting next quarter's channel budget: last-touch attribution vs the
+    data-driven multi-touch model.
+- id: ana-cohorts
+  domain: analytics
+  hint: >-
+    Reporting retention to the board: weekly cohorts with noisier lines vs
+    monthly cohorts that lag a quarter.
+- id: ana-survey-sample
+  domain: analytics
+  hint: >-
+    Running the annual customer survey: a random 5k sample with follow-ups
+    vs emailing the whole base once.
+- id: ana-churn-model
+  domain: analytics
+  hint: >-
+    Producing the churn intervention list: an interpretable logistic model
+    vs a higher-AUC gradient-boosted model.
+- id: ana-randomize-unit
+  domain: analytics
+  hint: >-
+    Randomizing the pricing-page experiment: by user account vs by session.
+- id: ana-holdout
+  domain: analytics
+  hint: >-
+    Measuring marketing incrementality: a permanent 5% global holdout vs
+    rotating regional holdouts.
+- id: ana-northstar
+  domain: analytics
+  hint: >-
+    Picking the company north-star metric: weekly active users vs weekly
+    active teams.
+- id: ana-latency-sla
+  domain: analytics
+  hint: >-
+    The performance dashboard headline: p95 latency vs p99 latency.
+- id: ana-price-test
+  domain: analytics
+  hint: >-
+    Testing a price increase: 10% in one mid-size country vs 2% everywhere.
+- id: ana-anomaly
+  domain: analytics
+  hint: >-
+    Alerting on the revenue pipeline: fixed thresholds everyone understands
+    vs a seasonal model that catches more but pages more.
+- id: ana-transform-layer
+  domain: analytics
+  hint: >-
+    Rebuilding the reporting transforms: dbt models in git vs the
+    warehouse's stored procedures the team already knows.
+- id: ana-event-grain
+  domain: analytics
+  hint: >-
+    Designing the analytics mart: store raw events and aggregate at query
+    time vs precomputed sessionized tables.
+- id: ana-health-metric
+  domain: analytics
+  hint: >-
+    The quarterly customer-health headline: NPS vs CSAT.
+- id: ana-budget-model
+  domain: analytics
+  hint: >-
+    Allocating the ads budget: a marketing-mix model on two years of spend
+    vs a season of geo incrementality experiments.
+- id: ana-conversion-def
+  domain: analytics
+  hint: >-
+    Defining trial-to-paid conversion for the growth report: at payment
+    details entered vs at first invoice cleared.
+- id: ana-seasonal-adjust
+  domain: analytics
+  hint: >-
+    The KPI dashboard through the holidays: seasonally adjusted series vs
+    raw numbers with annotation notes.
+- id: ana-underpowered
+  domain: analytics
+  hint: >-
+    The experiment calendar collides with the holiday code freeze: run a
+    shorter underpowered test now vs wait until January for full power.
+- id: ana-bandit
+  domain: analytics
+  hint: >-
+    Optimizing the homepage hero: a multi-armed bandit that adapts weekly vs
+    a classic fixed-split test with a clean readout.
+- id: ana-geo-launch
+  domain: analytics
+  hint: >-
+    Measuring the new feature's market impact: ten matched test cities vs a
+    national 1% randomized rollout.
+- id: ana-survey-scale
+  domain: analytics
+  hint: >-
+    The annual satisfaction survey scale: keep the 5-point scale for
+    comparability vs move to 7-point for sensitivity.
+- id: ana-weighting
+  domain: analytics
+  hint: >-
+    Publishing survey results internally: weight to customer demographics vs
+    report raw with a response-bias caveat.
+- id: ana-dedupe
+  domain: analytics
+  hint: >-
+    Cleaning the CRM for the migration: fuzzy-match dedupe with manual
+    review vs exact-match only.
+- id: ana-report-cadence
+  domain: analytics
+  hint: >-
+    Keeping leadership informed: a curated weekly metrics email vs a live
+    dashboard and no email.
+- id: ana-kpi-window
+  domain: analytics
+  hint: >-
+    Reporting the growth KPI: trailing 7-day window that reacts fast vs
+    trailing 28-day window that smooths seasonality.
+- id: ana-retention-def
+  domain: analytics
+  hint: >-
+    Defining "retained" for the board metric: opened the app vs completed a
+    core action.
+- id: ana-forecast-owner
+  domain: analytics
+  hint: >-
+    The quarterly revenue forecast: finance's driver-based spreadsheet vs
+    the data team's statistical model.
+- id: ana-exp-review
+  domain: analytics
+  hint: >-
+    Experiment governance: a weekly review board for all launches vs team
+    self-serve with an audit trail.
+- id: ana-metric-guard
+  domain: analytics
+  hint: >-
+    The new experiment's guardrail: cap on support tickets vs cap on latency
+    regressions (instrument only one this quarter).
+- id: ana-sessionize
+  domain: analytics
+  hint: >-
+    Session definition for engagement reporting: 30-minute inactivity
+    timeout vs midnight day-boundary sessions.
+- id: ana-panel-vendor
+  domain: analytics
+  hint: >-
+    Consumer insights: a continuous 2k-person research panel vs quarterly
+    one-off studies with fresh samples.
+- id: ana-ltv-horizon
+  domain: analytics
+  hint: >-
+    LTV for payback decisions: 12-month realized value vs 36-month modeled
+    value.
+- id: ana-dash-audience
+  domain: analytics
+  hint: >-
+    The company dashboard: one page tuned for executives vs a drill-down
+    tree tuned for team leads.
+- id: ana-alert-owner
+  domain: analytics
+  hint: >-
+    Metric alerts: routed to the owning team's channel vs a central
+    data-quality rotation.
+- id: ana-experiment-mde
+  domain: analytics
+  hint: >-
+    Sizing the pricing test: target a 2% effect over six weeks vs a 5%
+    effect over two.
+- id: ana-null-report
+  domain: analytics
+  hint: >-
+    The inconclusive test's writeup: publish as a null result in the
+    experiment registry vs fold it into the next iteration's plan.
+- id: ana-schema-owner
+  domain: analytics
+  hint: >-
+    Event schema changes: reviewed by a central taxonomy owner vs owned by
+    feature teams with linting.
+- id: ana-benchmarks
+  domain: analytics
+  hint: >-
+    Quarterly targets: benchmark against industry averages vs against our
+    own trailing cohorts only.
+- id: ana-tool-notebooks
+  domain: analytics
+  hint: >-
+    Team analysis workflow: shared notebooks in the warehouse UI vs local
+    scripts in the analytics repo.
+- id: ana-sample-refresh
+  domain: analytics
+  hint: >-
+    The churn model's training data: refresh monthly with drift checks vs
+    refresh quarterly with full revalidation.
+- id: ana-survey-incentive
+  domain: analytics
+  hint: >-
+    Survey response incentives: a prize draw vs a small guaranteed voucher.
+- id: ana-funnel-steps
+  domain: analytics
+  hint: >-
+    The signup funnel instrument: five coarse stages everyone understands vs
+    twelve granular steps for diagnosis.
+- id: ana-data-contract
+  domain: analytics
+  hint: >-
+    Upstream data reliability: formal data contracts with producer teams vs
+    defensive validation on the consumer side.
+- id: ana-attribution-window
+  domain: analytics
+  hint: >-
+    Ad attribution window: 7-day click that undercounts vs 30-day click that
+    overcounts.

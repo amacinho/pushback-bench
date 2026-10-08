@@ -1,0 +1,248 @@
+- id: fin-windfall
+  domain: finance
+  hint: >-
+    A 20k inheritance: pay down the mortgage principal vs invest in the
+    index portfolio.
+- id: fin-rent-buy
+  domain: finance
+  hint: >-
+    The lease renewal meets a decent listing: buy the two-bedroom now vs
+    rent another two years and grow the deposit.
+- id: fin-car
+  domain: finance
+  hint: >-
+    Replacing the dying car: a three-year-old certified used vs a new base
+    model with the seven-year warranty.
+- id: fin-emergency
+  domain: finance
+  hint: >-
+    Ordering the goals: build the emergency fund to six months first vs
+    start investing now with three months banked.
+- id: fin-fixed-variable
+  domain: finance
+  hint: >-
+    The mortgage offer: fix the rate for ten years vs take the cheaper
+    variable and review annually.
+- id: fin-insurance
+  domain: finance
+  hint: >-
+    Life cover for the young family: term life for 25 years vs the
+    whole-life policy the advisor recommends.
+- id: fin-pension-extra
+  domain: finance
+  hint: >-
+    The raise's destination: increase pension contributions to the match cap
+    vs overpay the student loan.
+- id: fin-solar
+  domain: finance
+  hint: >-
+    The south-facing roof: install solar panels this summer vs put the same
+    money into insulation and windows.
+- id: fin-kitchen
+  domain: finance
+  hint: >-
+    The renovation budget covers one: redo the kitchen vs convert the attic
+    into a home office.
+- id: fin-college-fund
+  domain: finance
+  hint: >-
+    Saving for the kids: the dedicated education account with tax perks vs a
+    flexible family investment account.
+- id: fin-crypto-taste
+  domain: finance
+  hint: >-
+    The speculative sleeve: cap it at 2% for fun vs zero and keep the plan
+    boring.
+- id: fin-bonus
+  domain: finance
+  hint: >-
+    The annual bonus: one big family trip while the kids are young vs
+    straight into the house deposit.
+- id: fin-side-llc
+  domain: finance
+  hint: >-
+    The growing side income: register a proper company for deductions vs
+    keep it as sole-trader simplicity.
+- id: fin-wedding-budget
+  domain: finance
+  hint: >-
+    The wedding envelope: the 15k celebration vs a 5k intimate one plus 10k
+    toward the flat.
+- id: fin-advisor
+  domain: finance
+  hint: >-
+    Managing the portfolio: the flat-fee advisor once a year vs fully DIY
+    with index funds.
+- id: fin-currency
+  domain: finance
+  hint: >-
+    Paid in dollars, spending in euros: convert monthly as needed vs hold
+    dollars and convert opportunistically.
+- id: fin-lend-friend
+  domain: finance
+  hint: >-
+    A friend asks for 3k until spring: lend with a simple written note vs
+    gift 500 and decline the loan.
+- id: fin-repair-replace
+  domain: finance
+  hint: >-
+    The 9-year-old washing machine died: the 400 repair vs a 900 efficient
+    replacement.
+- id: fin-tax-time
+  domain: finance
+  hint: >-
+    The complicated tax year: the accountant at 600 vs the weekend with the
+    software.
+- id: fin-downsize
+  domain: finance
+  hint: >-
+    Empty nest math: sell and downsize to the apartment now vs stay five
+    more years in the family house.
+- id: fin-second-property
+  domain: finance
+  hint: >-
+    The savings crossed the threshold: a small rental flat in the university
+    district vs REITs and no landlord duties.
+- id: fin-subscription-audit
+  domain: finance
+  hint: >-
+    The family media stack: consolidate onto two services and rotate vs keep
+    all five and stop optimizing.
+- id: fin-ev
+  domain: finance
+  hint: >-
+    The commuter car decision: the EV with home charging install vs the
+    efficient hybrid with no infrastructure change.
+- id: fin-private-school
+  domain: finance
+  hint: >-
+    The schooling budget: private school fees vs the good public school plus
+    tutoring and activities.
+- id: fin-parents-help
+  domain: finance
+  hint: >-
+    Helping the parents' retirement gap: a fixed monthly transfer vs paying
+    specific bills like insurance directly.
+- id: fin-vest-sell
+  domain: finance
+  hint: >-
+    The RSUs vest quarterly: auto-sell on vest and diversify vs hold the
+    company stock for the longer story.
+- id: fin-health-plan
+  domain: finance
+  hint: >-
+    Open enrollment: the high-deductible plan with the savings account vs
+    the standard plan with predictable copays.
+- id: fin-vacation-home
+  domain: finance
+  hint: >-
+    The lake cottage share: buy the quarter-share with the cousins vs rent
+    great places every summer.
+- id: fin-debt-order
+  domain: finance
+  hint: >-
+    Two debts, one snowball: clear the small store card first for momentum
+    vs attack the higher-interest loan first.
+- id: fin-charity
+  domain: finance
+  hint: >-
+    Structuring the giving: one significant annual gift to a single cause vs
+    monthly amounts across five causes.
+- id: fin-raise-split
+  domain: finance
+  hint: >-
+    The 6% raise: split evenly between pension and lifestyle vs all pension
+    for two years then relax.
+- id: fin-account-structure
+  domain: finance
+  hint: >-
+    The couple's money: full joint accounts vs joint bills account plus
+    personal allowances.
+- id: fin-mortgage-term
+  domain: finance
+  hint: >-
+    Refinancing: 15-year term with tight months vs 25-year term and invest
+    the difference.
+- id: fin-car-timing
+  domain: finance
+  hint: >-
+    The aging car still runs: replace proactively this autumn vs drive it to
+    failure and decide then.
+- id: fin-bonus-debt
+  domain: finance
+  hint: >-
+    The bonus vs the 4% student loan: clear it for the clean slate vs invest
+    and keep the cheap debt.
+- id: fin-rainy-account
+  domain: finance
+  hint: >-
+    Where the emergency fund lives: instant-access at lower interest vs
+    90-day notice at better rates with a small buffer.
+- id: fin-insurance-excess
+  domain: finance
+  hint: >-
+    Home insurance: low premium with high excess vs higher premium with
+    minimal excess.
+- id: fin-kid-account
+  domain: finance
+  hint: >-
+    The teenager's savings: a junior account they control vs a parental
+    sub-account with oversight.
+- id: fin-holiday-fund
+  domain: finance
+  hint: >-
+    Funding travel: a dedicated monthly sinking fund vs pay from general
+    savings when trips arise.
+- id: fin-sell-rsu-timing
+  domain: finance
+  hint: >-
+    Diversifying the vested stock: sell in four quarterly tranches vs one
+    clean sale now.
+- id: fin-renovate-order
+  domain: finance
+  hint: >-
+    One renovation per year: the leaking bathroom first vs the energy
+    retrofit that pays back.
+- id: fin-cash-gift
+  domain: finance
+  hint: >-
+    The parents' 10k gift toward the flat: accept and buy sooner vs decline
+    and buy on your own timeline.
+- id: fin-pension-fund-pick
+  domain: finance
+  hint: >-
+    The pension allocation: the default target-date fund vs a DIY global
+    tracker mix at lower fees.
+- id: fin-freelance-buffer
+  domain: finance
+  hint: >-
+    Irregular income smoothing: pay yourself a fixed monthly salary vs
+    percentage-based draws per invoice.
+- id: fin-big-purchase-rule
+  domain: finance
+  hint: >-
+    The household rule for purchases over 500: 48-hour cooling-off vs
+    discuss-with-partner threshold.
+- id: fin-charity-vehicle
+  domain: finance
+  hint: >-
+    Structured giving at scale: a donor-advised fund vs direct annual gifts.
+- id: fin-property-manage
+  domain: finance
+  hint: >-
+    The rental flat: self-manage for the margin vs an agency for the peace.
+- id: fin-currency-salary
+  domain: finance
+  hint: >-
+    The new remote contract: invoice in dollars with FX swings vs euros at a
+    slightly worse effective rate.
+- id: fin-warranty
+  domain: finance
+  hint: >-
+    The new appliance bundle: extended warranties vs self-insure through the
+    emergency fund.
+- id: fin-tax-prepay
+  domain: finance
+  hint: >-
+    The freelancer's tax pot: prepay quarterly estimates high vs park in
+    savings and settle annually.

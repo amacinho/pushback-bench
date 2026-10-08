@@ -1,0 +1,248 @@
+- id: trv-honeymoon
+  domain: travel
+  hint: >-
+    The honeymoon: two weeks island-hopping in Greece vs the Japan rail trip
+    in cherry-blossom season.
+- id: trv-summer-family
+  domain: travel
+  hint: >-
+    The family summer: the familiar beach house vs the first camper-van road
+    trip.
+- id: trv-redeye
+  domain: travel
+  hint: >-
+    Getting to the conference: the red-eye landing the morning of vs losing
+    a workday to fly the evening before.
+- id: trv-train-plane
+  domain: travel
+  hint: >-
+    The 6-hour intercity trip: the direct train vs the one-hour flight plus
+    airport overhead.
+- id: trv-package-diy
+  domain: travel
+  hint: >-
+    The parents' anniversary trip: a packaged tour with everything handled
+    vs a self-planned itinerary.
+- id: trv-shoulder
+  domain: travel
+  hint: >-
+    Timing the Italy trip: peak June with the best weather vs September
+    shoulder season with fewer crowds.
+- id: trv-onebag
+  domain: travel
+  hint: >-
+    Three weeks across climates: one carry-on with laundry stops vs a
+    checked bag and no washing.
+- id: trv-city-nature
+  domain: travel
+  hint: >-
+    The long weekend away: Lisbon city break vs the mountain cabin.
+- id: trv-friends-group
+  domain: travel
+  hint: >-
+    The friend group's yearly trip: the big rented villa together vs
+    separate hotels and shared dinners.
+- id: trv-layover-city
+  domain: travel
+  hint: >-
+    The connection home: the 18-hour Istanbul layover with a city visit vs
+    the 3-hour clean transfer.
+- id: trv-car-rental
+  domain: travel
+  hint: >-
+    Getting around Sicily: rent a car for the whole week vs trains plus
+    day-tour buses.
+- id: trv-xmas-market
+  domain: travel
+  hint: >-
+    The December city break: Vienna's classic markets vs Krakow at half the
+    price.
+- id: trv-solo-group
+  domain: travel
+  hint: >-
+    The first Patagonia trek: join a guided group vs solo with a detailed
+    plan.
+- id: trv-airbnb-hotel
+  domain: travel
+  hint: >-
+    A week in Barcelona with kids: the apartment with a kitchen vs the hotel
+    with breakfast and a pool.
+- id: trv-points
+  domain: travel
+  hint: >-
+    The points balance covers one: business-class seats to Tokyo vs two
+    economy trips this year.
+- id: trv-roadtrip-route
+  domain: travel
+  hint: >-
+    The coast road trip: the scenic route with 5 stops vs the direct route
+    and three full days at the destination.
+- id: trv-offgrid
+  domain: travel
+  hint: >-
+    The recharge week: the off-grid cabin with no signal vs the seaside town
+    with cafes and wifi.
+- id: trv-ski-learn
+  domain: travel
+  hint: >-
+    The February week: the ski resort where half the family are beginners vs
+    the Canary Islands sun.
+- id: trv-visit-home
+  domain: travel
+  hint: >-
+    The annual leave split: one long visit to the home country vs two short
+    visits spread across the year.
+- id: trv-cruise
+  domain: travel
+  hint: >-
+    The three-generation trip: the Mediterranean cruise that handles
+    everything vs the rented farmhouse hub with day trips.
+- id: trv-early-late
+  domain: travel
+  hint: >-
+    Flight timing with a toddler: the 6am departure during nap-friendly
+    hours vs the relaxed noon flight.
+- id: trv-travel-insurance
+  domain: travel
+  hint: >-
+    The big trip's cover: comprehensive insurance with cancellation vs the
+    credit card's basic coverage.
+- id: trv-language-trip
+  domain: travel
+  hint: >-
+    Practicing the Spanish: two weeks of immersion school in Valencia vs a
+    free-roaming trip with conversation apps.
+- id: trv-national-parks
+  domain: travel
+  hint: >-
+    The US trip: three national parks in ten days vs one park slowly with
+    long hikes.
+- id: trv-wedding-abroad
+  domain: travel
+  hint: >-
+    The destination wedding invite: the full week with the group vs flying
+    in for the weekend only.
+- id: trv-sleeper
+  domain: travel
+  hint: >-
+    To the Alps: the night sleeper train vs the early flight and full first
+    day.
+- id: trv-repeat-new
+  domain: travel
+  hint: >-
+    The one big trip this year: return to beloved Portugal vs somewhere
+    entirely new in Vietnam.
+- id: trv-book-early
+  domain: travel
+  hint: >-
+    Next summer's flights: book eleven months out at today's price vs wait
+    for the spring sales window.
+- id: trv-pet
+  domain: travel
+  hint: >-
+    Two weeks away: the trusted (expensive) pet hotel vs the neighbor
+    checking in twice a day.
+- id: trv-workation
+  domain: travel
+  hint: >-
+    The remote-work month: a co-working hub in Tenerife vs a quiet village
+    house with fiber.
+- id: trv-two-cities
+  domain: travel
+  hint: >-
+    Ten days in Japan: split Tokyo and Kyoto evenly vs base in one with day
+    trips.
+- id: trv-lounge-pass
+  domain: travel
+  hint: >-
+    The frequent flyer year: buy the lounge membership vs spend it on seat
+    upgrades for the long hauls.
+- id: trv-festival-quiet
+  domain: travel
+  hint: >-
+    Timing the Lisbon trip: during the June festival with the crowds vs the
+    quiet week after.
+- id: trv-hotel-loyalty
+  domain: travel
+  hint: >-
+    Booking strategy: concentrate stays in one hotel chain for status vs
+    always book the best-fit property.
+- id: trv-kids-jetlag
+  domain: travel
+  hint: >-
+    The transatlantic arrival with kids: push through to local bedtime vs
+    let everyone nap and adjust gradually.
+- id: trv-museum-pass
+  domain: travel
+  hint: >-
+    Paris culture plan: the 4-day museum pass with an itinerary vs two
+    pre-booked highlights and wandering.
+- id: trv-restaurant-plan
+  domain: travel
+  hint: >-
+    Food strategy in Rome: reserve the top spots weeks ahead vs walk in
+    where the evening leads.
+- id: trv-carry-meds
+  domain: travel
+  hint: >-
+    The remote trek's med kit: comprehensive kit with antibiotics vs minimal
+    kit and evacuation insurance.
+- id: trv-early-checkin
+  domain: travel
+  hint: >-
+    The 7am arrival: pay for early check-in and sleep vs drop bags and power
+    through the first day.
+- id: trv-guide-selfnav
+  domain: travel
+  hint: >-
+    The medina day: a licensed guide vs self-navigating with offline maps.
+- id: trv-anniversary
+  domain: travel
+  hint: >-
+    The anniversary weekend: the fancy city hotel vs the countryside inn
+    with the tasting menu.
+- id: trv-shoulder-hurricane
+  domain: travel
+  hint: >-
+    Caribbean in September: half-price with hurricane-season risk vs
+    December at full price.
+- id: trv-rail-pass
+  domain: travel
+  hint: >-
+    The Europe month: the flexible rail pass vs point-to-point tickets
+    booked as you go.
+- id: trv-photo-gear
+  domain: travel
+  hint: >-
+    The safari bag: bring the full camera kit vs phone plus binoculars and
+    presence.
+- id: trv-language-prep
+  domain: travel
+  hint: >-
+    Before three weeks in Mexico: a month of daily Spanish drills vs learn
+    on the ground with a phrasebook.
+- id: trv-airport-hotel
+  domain: travel
+  hint: >-
+    The 6am departure: the airport hotel the night before vs the 3:30am taxi
+    from home.
+- id: trv-group-size
+  domain: travel
+  hint: >-
+    The Kilimanjaro plan: join a scheduled group of twelve vs a private
+    two-person climb at double cost.
+- id: trv-winter-sun-split
+  domain: travel
+  hint: >-
+    February escape: one week of guaranteed Canaries sun vs rolling the dice
+    on cheap Sicily.
+- id: trv-return-flexible
+  domain: travel
+  hint: >-
+    The open-ended sabbatical trip: buy the flexible return now vs one-way
+    and book the return when ready.
+- id: trv-souvenir-rule
+  domain: travel
+  hint: >-
+    The souvenir philosophy: one meaningful object per trip vs photos only
+    and lighter bags.

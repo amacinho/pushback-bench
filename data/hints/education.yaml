@@ -1,0 +1,249 @@
+- id: edu-language-app
+  domain: education
+  hint: >-
+    Learning French before the move: daily app streaks vs a weekly evening
+    class with homework.
+- id: edu-kid-instrument
+  domain: education
+  hint: >-
+    The 8-year-old's music start: piano with the structured teacher vs
+    guitar with the fun one.
+- id: edu-bootcamp-degree
+  domain: education
+  hint: >-
+    The career switch into data: the 12-week bootcamp vs the part-time
+    online degree.
+- id: edu-tutor-group
+  domain: education
+  hint: >-
+    Math help for the teen: one-on-one tutoring vs the small-group course
+    with classmates.
+- id: edu-homework-time
+  domain: education
+  hint: >-
+    The family homework rule: right after school while it's fresh vs after
+    dinner when everyone's rested.
+- id: edu-gap-year
+  domain: education
+  hint: >-
+    Between school and university: the structured gap year with work and
+    travel vs going straight in.
+- id: edu-thesis-topic
+  domain: education
+  hint: >-
+    The master's thesis: the safe topic with the supportive advisor vs the
+    exciting topic with the absent one.
+- id: edu-mooc-book
+  domain: education
+  hint: >-
+    Learning statistics properly: the video course with exercises vs working
+    through the classic textbook.
+- id: edu-bilingual
+  domain: education
+  hint: >-
+    Kindergarten choice: the bilingual program across town vs the
+    neighborhood one five minutes away.
+- id: edu-exam-strategy
+  domain: education
+  hint: >-
+    The certification exam: book it for next month to force the pace vs
+    finish the syllabus first and book after.
+- id: edu-notes
+  domain: education
+  hint: >-
+    The lecture workflow: handwritten notes for retention vs typed notes for
+    searchability.
+- id: edu-major
+  domain: education
+  hint: >-
+    Declaring the major: economics with clearer job paths vs linguistics
+    where the heart is.
+- id: edu-summer-camp
+  domain: education
+  hint: >-
+    The kids' summer: the coding camp vs the outdoor adventure camp.
+- id: edu-phd-start
+  domain: education
+  hint: >-
+    The admit letters: the top program with an unknown advisor vs the
+    lower-ranked one with the perfect-fit lab.
+- id: edu-morning-evening
+  domain: education
+  hint: >-
+    Study slot for the working parent: 5:30am before the house wakes vs 9pm
+    after bedtime.
+- id: edu-flashcards
+  domain: education
+  hint: >-
+    The vocabulary grind: spaced-repetition flashcards vs reading novels
+    with a dictionary.
+- id: edu-driving
+  domain: education
+  hint: >-
+    The teen's driving lessons: the intensive two-week course vs weekly
+    lessons over four months.
+- id: edu-online-inperson
+  domain: education
+  hint: >-
+    The pottery hobby: the local Tuesday studio class vs the excellent
+    online course with home kit.
+- id: edu-school-repeat
+  domain: education
+  hint: >-
+    The borderline year: let the struggling 7-year-old repeat the grade vs
+    move up with extra support.
+- id: edu-conference-course
+  domain: education
+  hint: >-
+    The training budget: the four-day industry conference vs the deep
+    three-week online specialization.
+- id: edu-read-aloud
+  domain: education
+  hint: >-
+    Bedtime for the early reader: keep reading aloud together vs hand over
+    to independent reading with check-ins.
+- id: edu-second-lang-kid
+  domain: education
+  hint: >-
+    The heritage language: Saturday school with a curriculum vs
+    grandparents' video calls and summer visits.
+- id: edu-cert-order
+  domain: education
+  hint: >-
+    Two certifications, one year: the cloud architecture cert first vs the
+    security cert first.
+- id: edu-study-group
+  domain: education
+  hint: >-
+    Bar exam prep: the study group's schedule vs a solo plan with practice
+    exams.
+- id: edu-kid-grade-skip
+  domain: education
+  hint: >-
+    The school suggests it: skip the bored 9-year-old a grade vs enrichment
+    within the current class.
+- id: edu-portfolio-exam
+  domain: education
+  hint: >-
+    The design program application: submit the portfolio track vs the
+    entrance-exam track.
+- id: edu-audiobook
+  domain: education
+  hint: >-
+    The commute hour: audiobooks for the reading list vs podcasts and keep
+    reading for paper books.
+- id: edu-write-daily
+  domain: education
+  hint: >-
+    The dissertation push: 500 words every morning vs full writing days
+    twice a week.
+- id: edu-museum-pass
+  domain: education
+  hint: >-
+    The family weekend habit: the annual science museum pass vs rotating
+    one-off visits across the city's museums.
+- id: edu-retake
+  domain: education
+  hint: >-
+    The B-minus in the core course: retake it for the grade vs take the
+    advanced course and let the transcript stand.
+- id: edu-review-timing
+  domain: education
+  hint: >-
+    Exam revision structure: past papers from week one vs content mastery
+    first, papers in the final month.
+- id: edu-note-system
+  domain: education
+  hint: >-
+    The knowledge base: one big searchable vault vs subject-siloed
+    notebooks.
+- id: edu-kid-tutor-subject
+  domain: education
+  hint: >-
+    One tutoring budget: shore up the weak math vs deepen the strong
+    writing.
+- id: edu-course-audit
+  domain: education
+  hint: >-
+    The famous online course: audit free without deadlines vs pay for the
+    certificate and the schedule pressure.
+- id: edu-lab-choice
+  domain: education
+  hint: >-
+    The master's project: the well-resourced lab with a crowded topic vs the
+    tiny lab with an open niche.
+- id: edu-reading-pair
+  domain: education
+  hint: >-
+    The book club's next quarter: one hard classic slowly vs three
+    contemporary reads.
+- id: edu-school-language
+  domain: education
+  hint: >-
+    The school's second language for the kids: Spanish with more speakers vs
+    German with the family connection.
+- id: edu-conference-poster
+  domain: education
+  hint: >-
+    The early results: submit the poster now vs hold six months for a full
+    talk.
+- id: edu-morning-block
+  domain: education
+  hint: >-
+    The dissertation's protected time: two dawn hours daily vs one full
+    library day weekly.
+- id: edu-cs-math
+  domain: education
+  hint: >-
+    The elective slot: the theory-heavy algorithms course vs the applied ML
+    studio.
+- id: edu-teach-style
+  domain: education
+  hint: >-
+    Your new seminar: lecture-first with clean structure vs discussion-
+    first with reading accountability.
+- id: edu-kid-repeat-club
+  domain: education
+  hint: >-
+    The shy 9-year-old's activity: continue familiar swimming vs try the
+    drama club.
+- id: edu-textbook-edition
+  domain: education
+  hint: >-
+    Course materials: assign the 120 new edition vs the near-identical used
+    old edition.
+- id: edu-phone-policy
+  domain: education
+  hint: >-
+    Your classroom's rule: phones in the door pocket vs phones allowed with
+    engagement norms.
+- id: edu-grad-timing
+  domain: education
+  hint: >-
+    Finishing the PhD: submit in spring with three papers vs winter with
+    four and a fellowship shot.
+- id: edu-flash-app
+  domain: education
+  hint: >-
+    The med-school deck: the community's shared deck vs building your own
+    cards as you learn.
+- id: edu-summer-course
+  domain: education
+  hint: >-
+    The kid's summer program: academic enrichment camp vs unstructured
+    outdoor play weeks.
+- id: edu-mentor-committee
+  domain: education
+  hint: >-
+    The thesis committee's fourth seat: the methods expert vs the industry
+    practitioner.
+- id: edu-oa-journal
+  domain: education
+  hint: >-
+    Submitting the paper: the prestigious paywalled journal vs the solid
+    open-access venue.
+- id: edu-learn-stack
+  domain: education
+  hint: >-
+    Learning web development: the opinionated framework path vs
+    fundamentals-first vanilla stack.

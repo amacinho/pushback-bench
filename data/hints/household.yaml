@@ -1,0 +1,238 @@
+- id: hom-heating
+  domain: household
+  hint: >-
+    The old boiler's last winter: the heat pump with the subsidy paperwork
+    vs the efficient gas replacement fitted next week.
+- id: hom-garden
+  domain: household
+  hint: >-
+    The back garden re-do: low-maintenance gravel and natives vs the lawn
+    the kids can play on.
+- id: hom-paint-diy
+  domain: household
+  hint: >-
+    Repainting the living room and hall: the DIY long weekend vs hiring the
+    decorator.
+- id: hom-floor
+  domain: household
+  hint: >-
+    The worn-out floor: engineered wood vs the good luxury vinyl.
+- id: hom-declutter
+  domain: household
+  hint: >-
+    The overflowing house: one ruthless clear-out weekend vs one room per
+    weekend for two months.
+- id: hom-fence
+  domain: household
+  hint: >-
+    The sagging boundary fence: repair the worst panels vs replace the whole
+    run once.
+- id: hom-kitchen-layout
+  domain: household
+  hint: >-
+    The kitchen refit: the island everyone gathers around vs the galley
+    layout with more storage.
+- id: hom-washer-dryer
+  domain: household
+  hint: >-
+    The laundry corner: the combined washer-dryer saving space vs two
+    machines stacked.
+- id: hom-cleaner
+  domain: household
+  hint: >-
+    The weekly time sink: hire a fortnightly cleaner vs a strict family
+    chore rotation.
+- id: hom-guest-office
+  domain: household
+  hint: >-
+    The spare room's fate: proper home office vs guest room with a desk
+    squeezed in.
+- id: hom-car-spot
+  domain: household
+  hint: >-
+    The driveway project: widen for two cars vs keep the front garden bed.
+- id: hom-water
+  domain: household
+  hint: >-
+    The hard-water problem: the whole-house softener install vs filter jugs
+    and descaling routines.
+- id: hom-attic
+  domain: household
+  hint: >-
+    The attic's future: insulate and board for storage vs the full dormer
+    conversion in two years.
+- id: hom-smart
+  domain: household
+  hint: >-
+    Modernizing the house: smart thermostat and lights ecosystem vs keep it
+    dumb and simple.
+- id: hom-compost
+  domain: household
+  hint: >-
+    Kitchen scraps: the sealed hot-composter by the door vs the classic heap
+    at the bottom of the garden.
+- id: hom-windows
+  domain: household
+  hint: >-
+    The drafty single-glazed windows: replace all twelve this year on
+    finance vs four a year for three years cash.
+- id: hom-mealprep
+  domain: household
+  hint: >-
+    Weeknight dinners: Sunday batch-cooking vs a meal-kit subscription.
+- id: hom-grocery
+  domain: household
+  hint: >-
+    The weekly shop: the delivery subscription vs the Saturday market plus
+    one supermarket run.
+- id: hom-move-renovate
+  domain: household
+  hint: >-
+    Outgrowing the flat: sell and move to a bigger place vs renovate to add
+    the second bedroom.
+- id: hom-solar-battery
+  domain: household
+  hint: >-
+    Adding to the panels: the battery for evening self-use vs export to the
+    grid and skip the battery.
+- id: hom-bathroom-tub
+  domain: household
+  hint: >-
+    The one-bathroom refit: keep a tub for the kids vs the big walk-in
+    shower.
+- id: hom-pest
+  domain: household
+  hint: >-
+    The mice are back: the pest-control contract vs seal-up work and traps.
+- id: hom-furniture
+  domain: household
+  hint: >-
+    Furnishing the new place: buy slowly secondhand vs one coordinated order
+    now.
+- id: hom-yard-tree
+  domain: household
+  hint: >-
+    The oak shading the vegetable beds: crown-reduce it vs move the beds to
+    the front.
+- id: hom-ev-charger
+  domain: household
+  hint: >-
+    Before the EV arrives: the wallbox install now vs granny-cable while
+    seeing real usage first.
+- id: hom-storage-unit
+  domain: household
+  hint: >-
+    The overflow after downsizing: the storage unit for a year vs selling
+    everything that doesn't fit.
+- id: hom-dishes-hand
+  domain: household
+  hint: >-
+    The tiny kitchen: the slimline dishwasher losing a cupboard vs keep the
+    cupboard and wash up.
+- id: hom-security
+  domain: household
+  hint: >-
+    After the street's break-ins: the monitored alarm subscription vs
+    cameras and smart locks self-managed.
+- id: hom-rug-floorheat
+  domain: household
+  hint: >-
+    The cold north room: underfloor heating during the refit vs thick rugs
+    and a panel radiator.
+- id: hom-paint-color
+  domain: household
+  hint: >-
+    The open-plan repaint: warm white throughout vs a bold accent wall in
+    the dining corner.
+- id: hom-laundry-cadence
+  domain: household
+  hint: >-
+    The family laundry: one big weekend batch day vs a load every morning.
+- id: hom-veg-patch-site
+  domain: household
+  hint: >-
+    The vegetable beds: the sunny front garden the street sees vs the
+    shadier private back.
+- id: hom-heat-schedule
+  domain: household
+  hint: >-
+    Winter heating: steady 19 degrees all day vs timed bursts morning and
+    evening.
+- id: hom-paint-sheen
+  domain: household
+  hint: >-
+    The hallway with kids: wipeable eggshell vs the flat matte that looks
+    better.
+- id: hom-drive-material
+  domain: household
+  hint: >-
+    The new driveway: permeable gravel vs block paving.
+- id: hom-bin-system
+  domain: household
+  hint: >-
+    Kitchen recycling: a four-stream sorting station vs one bin and sort
+    weekly.
+- id: hom-mattress
+  domain: household
+  hint: >-
+    The mattress decision: the boxed foam with 100-night trial vs the
+    showroom hybrid you tried.
+- id: hom-curtain-blind
+  domain: household
+  hint: >-
+    The bedroom windows: blackout curtains vs fitted blinds.
+- id: hom-lawn-wild
+  domain: household
+  hint: >-
+    The back lawn: keep mowing it neat vs rewild half for the bees.
+- id: hom-tool-share
+  domain: household
+  hint: >-
+    Occasional power tools: buy and own vs the street's tool-share group.
+- id: hom-porch-use
+  domain: household
+  hint: >-
+    The enclosed porch: mudroom storage vs a plant-filled reading nook.
+- id: hom-water-butt
+  domain: household
+  hint: >-
+    Garden watering: rainwater butts and cans vs an irrigation timer.
+- id: hom-freezer-size
+  domain: household
+  hint: >-
+    The utility corner: a chest freezer for batch cooking vs keeping the
+    space clear.
+- id: hom-hall-floor
+  domain: household
+  hint: >-
+    The hallway floor: patterned tiles that hide dirt vs the wood that
+    matches the living room.
+- id: hom-smart-lock
+  domain: household
+  hint: >-
+    The front door: a keypad smart lock for the kids vs traditional keys and
+    a lockbox.
+- id: hom-cleaner-day
+  domain: household
+  hint: >-
+    The cleaner's slot: Friday so weekends start fresh vs Monday to reset
+    after hosting.
+- id: hom-wardrobe-fit
+  domain: household
+  hint: >-
+    The bedroom storage: built-in wardrobes vs freestanding pieces that move
+    with you.
+- id: hom-guest-bed-type
+  domain: household
+  hint: >-
+    The study's guest option: a proper sofa bed vs a premium air mattress
+    and more desk space.
+- id: hom-solar-cover
+  domain: household
+  hint: >-
+    The panel layout: fill the whole roof now vs half now and extend if
+    usage grows.
+- id: hom-door-color
+  domain: household
+  hint: >-
+    The front door repaint: classic navy vs the sage green the street lacks.

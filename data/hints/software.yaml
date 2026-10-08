@@ -1,0 +1,247 @@
+- id: swe-storage
+  domain: software
+  hint: >-
+    Picking storage for a new activity-feed service: the team's existing
+    Postgres vs a managed NoSQL store.
+- id: swe-repo
+  domain: software
+  hint: >-
+    Structuring a growing codebase: consolidate into a monorepo vs keep one
+    repository per service.
+- id: swe-e2e
+  domain: software
+  hint: >-
+    Dealing with a flaky end-to-end test suite: stabilize the existing
+    Selenium tests vs rewrite them in Playwright.
+- id: swe-flags
+  domain: software
+  hint: >-
+    Adding feature flags: adopt a hosted feature-flag service vs build a
+    minimal in-house toggle library.
+- id: swe-ingest-lang
+  domain: software
+  hint: >-
+    The new ingestion service's language: Go for the runtime profile vs
+    Python for the team's fluency.
+- id: swe-queue
+  domain: software
+  hint: >-
+    Order events between services: Kafka the platform team runs vs the cloud
+    queue with zero ops.
+- id: swe-orm
+  domain: software
+  hint: >-
+    Data access in the billing service rewrite: the ORM vs hand-written SQL
+    with a thin mapper.
+- id: swe-auth
+  domain: software
+  hint: >-
+    Authentication for the customer portal: a hosted identity provider vs
+    in-house sessions on the existing user table.
+- id: swe-extract-payments
+  domain: software
+  hint: >-
+    The payments module strains the monolith: extract it into a service this
+    quarter vs harden it in place for another year.
+- id: swe-mobile-api
+  domain: software
+  hint: >-
+    The mobile team's API layer: GraphQL gateway vs versioned REST
+    endpoints.
+- id: swe-ci
+  domain: software
+  hint: >-
+    The CI system: migrate to the code host's built-in CI vs keep the
+    self-hosted Jenkins the team has scripted for years.
+- id: swe-ts-strict
+  domain: software
+  hint: >-
+    Adopting TypeScript strict mode in a large codebase: incremental
+    per-package adoption vs a one-week big-bang conversion.
+- id: swe-cache
+  domain: software
+  hint: >-
+    Speeding up the dashboard queries: a Redis cache layer vs Postgres
+    materialized views.
+- id: swe-search
+  domain: software
+  hint: >-
+    Product search: a dedicated search engine cluster vs the database's
+    built-in full-text search.
+- id: swe-mobile-stack
+  domain: software
+  hint: >-
+    The companion mobile app: one cross-platform codebase vs native iOS
+    first and Android later.
+- id: swe-serverless
+  domain: software
+  hint: >-
+    The image-processing workload: serverless functions vs a small
+    autoscaled container cluster.
+- id: swe-branching
+  domain: software
+  hint: >-
+    The team's branching model: trunk-based with feature flags vs release
+    branches with a merge window.
+- id: swe-test-invest
+  domain: software
+  hint: >-
+    The quality budget for next quarter: broaden integration test coverage
+    vs deepen unit tests around the core.
+- id: swe-observability
+  domain: software
+  hint: >-
+    Instrumenting the services: vendor-neutral OpenTelemetry vs the APM
+    vendor's native agents.
+- id: swe-db-migration
+  domain: software
+  hint: >-
+    Moving the orders table to the new schema: dual-write zero-downtime
+    migration vs a announced two-hour maintenance window.
+- id: swe-api-version
+  domain: software
+  hint: >-
+    Versioning the public API: version in the URL path vs a version header.
+- id: swe-scheduler
+  domain: software
+  hint: >-
+    The nightly jobs: cron on a dedicated worker vs an event-driven workflow
+    scheduler.
+- id: swe-secrets
+  domain: software
+  hint: >-
+    Secrets management: self-hosted Vault vs the cloud provider's secrets
+    manager.
+- id: swe-fe-state
+  domain: software
+  hint: >-
+    Frontend state in the redesigned app: a state-management library vs
+    React context and hooks only.
+- id: swe-multitenant
+  domain: software
+  hint: >-
+    Multi-tenancy for the B2B product: one shared schema with tenant ids vs
+    a schema per tenant.
+- id: swe-pagination
+  domain: software
+  hint: >-
+    The activity API's pagination: cursor-based vs offset-based.
+- id: swe-rate-limit
+  domain: software
+  hint: >-
+    Rate limiting the public API: centralized at the gateway vs per-service
+    limits close to the resources.
+- id: swe-deploy-style
+  domain: software
+  hint: >-
+    The release process: canary deployments with gradual traffic vs
+    blue-green with instant cutover.
+- id: swe-docs
+  domain: software
+  hint: >-
+    Team documentation: docs-as-code in the repo vs the company wiki.
+- id: swe-error-tracking
+  domain: software
+  hint: >-
+    Error tracking for the frontend: the hosted error service vs piping
+    everything into the existing logging stack.
+- id: swe-config-format
+  domain: software
+  hint: >-
+    Service configuration: typed config in code vs YAML files with schema
+    validation.
+- id: swe-retry-policy
+  domain: software
+  hint: >-
+    Handling flaky upstream calls: exponential backoff with jitter in each
+    client vs a circuit breaker at the gateway.
+- id: swe-id-scheme
+  domain: software
+  hint: >-
+    Public object ids: sequential ids that leak volume vs random UUIDs that
+    hurt index locality.
+- id: swe-schema-migrations
+  domain: software
+  hint: >-
+    Database migrations: auto-applied on deploy vs gated behind a manual
+    release step.
+- id: swe-review-policy
+  domain: software
+  hint: >-
+    Code review rule: one approval to keep velocity vs two approvals on core
+    paths.
+- id: swe-error-budget
+  domain: software
+  hint: >-
+    The SLO policy: freeze features when the error budget burns vs treat the
+    budget as advisory with postmortems.
+- id: swe-lib-fork
+  domain: software
+  hint: >-
+    The abandoned dependency: maintain an internal fork vs migrate to the
+    actively-developed alternative with a different API.
+- id: swe-staging
+  domain: software
+  hint: >-
+    Pre-production confidence: a full staging environment vs ephemeral
+    per-PR preview environments.
+- id: swe-oncall-shape
+  domain: software
+  hint: >-
+    The on-call rotation: weekly shifts with handoff docs vs daily shifts
+    with more context switching.
+- id: swe-logging-level
+  domain: software
+  hint: >-
+    Production logging: verbose structured logs with sampling vs lean logs
+    plus on-demand debug toggles.
+- id: swe-api-errors
+  domain: software
+  hint: >-
+    API error design: rich problem-details bodies vs minimal codes with a
+    documentation site.
+- id: swe-monorepo-ci
+  domain: software
+  hint: >-
+    CI on the big repo: affected-target detection vs full builds with
+    aggressive caching.
+- id: swe-sdk-gen
+  domain: software
+  hint: >-
+    Client SDKs: generated from the OpenAPI spec vs handcrafted for
+    idiomatic feel.
+- id: swe-feature-branch-life
+  domain: software
+  hint: >-
+    Stale branch policy: auto-delete after 30 days vs keep until authors
+    close them.
+- id: swe-perf-budget
+  domain: software
+  hint: >-
+    Frontend performance: a hard bundle-size budget in CI vs a monitored
+    metric with review nudges.
+- id: swe-vendor-queue
+  domain: software
+  hint: >-
+    The webhook backlog: process in-order with a single consumer vs parallel
+    consumers with idempotency keys.
+- id: swe-test-data
+  domain: software
+  hint: >-
+    Integration test data: anonymized production snapshots vs synthetic
+    factories.
+- id: swe-release-cadence
+  domain: software
+  hint: >-
+    Mobile release rhythm: fixed biweekly trains vs ship-when-ready with
+    feature gates.
+- id: swe-rpc-style
+  domain: software
+  hint: >-
+    Internal service calls: gRPC with codegen vs JSON over HTTP with shared
+    client libs.
+- id: swe-infra-lang
+  domain: software
+  hint: >-
+    Infrastructure as code: the cloud vendor's native templates vs a
+    general-purpose IaC language.

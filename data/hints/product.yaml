@@ -1,0 +1,242 @@
+- id: prd-pricing-model
+  domain: product
+  hint: >-
+    The SaaS pricing revamp: per-seat pricing vs usage-based tiers.
+- id: prd-freemium
+  domain: product
+  hint: >-
+    The acquisition motion: a generous free tier vs a 14-day full trial.
+- id: prd-roadmap-quarter
+  domain: product
+  hint: >-
+    One team, one quarter: the enterprise SSO everyone's blocked on vs the
+    onboarding revamp moving activation.
+- id: prd-beta
+  domain: product
+  hint: >-
+    Launching the redesign: a 10% opt-in beta for a month vs ship to
+    everyone behind an undo switch.
+- id: prd-platform-feature
+  domain: product
+  hint: >-
+    The integrations ask: build the top-requested Salesforce integration vs
+    ship the public API and let partners build.
+- id: prd-mobile-web
+  domain: product
+  hint: >-
+    The small team's next surface: the native mobile app vs a great
+    responsive web experience.
+- id: prd-kill-feature
+  domain: product
+  hint: >-
+    The legacy report builder with 3% usage: sunset it this quarter vs keep
+    it in maintenance for the loyal accounts.
+- id: prd-research
+  domain: product
+  hint: >-
+    Discovery for the new module: two weeks of user interviews vs a fake
+    door test in production.
+- id: prd-metrics-target
+  domain: product
+  hint: >-
+    The team's OKR: move activation rate vs move week-4 retention.
+- id: prd-onprem
+  domain: product
+  hint: >-
+    The big logo wants on-prem: build the self-hosted edition vs stay
+    cloud-only and walk away.
+- id: prd-notifications
+  domain: product
+  hint: >-
+    Re-engagement plan: the digest email vs push notifications.
+- id: prd-a11y
+  domain: product
+  hint: >-
+    The accessibility push: a dedicated remediation quarter vs a definition
+    of done that fixes it feature by feature.
+- id: prd-name
+  domain: product
+  hint: >-
+    Naming the new product line: the descriptive name that says what it does
+    vs the brandable invented word.
+- id: prd-segment-focus
+  domain: product
+  hint: >-
+    The positioning fork: lean into SMB self-serve vs chase the mid-market
+    with sales.
+- id: prd-copilot
+  domain: product
+  hint: >-
+    The AI feature: an assistant embedded in the existing flows vs a
+    standalone chat surface.
+- id: prd-launch-timing
+  domain: product
+  hint: >-
+    The launch moment: announce at the industry conference in six weeks vs
+    ship quietly now and iterate.
+- id: prd-feedback-channel
+  domain: product
+  hint: >-
+    Structuring the voice of customer: a public roadmap portal with voting
+    vs curated quarterly customer councils.
+- id: prd-design-system
+  domain: product
+  hint: >-
+    The inconsistent UI: pause features for a design-system sprint vs
+    migrate screen by screen.
+- id: prd-trial-length
+  domain: product
+  hint: >-
+    Trial economics: 7 days with urgency vs 30 days with room to adopt.
+- id: prd-marketplace
+  domain: product
+  hint: >-
+    The template ecosystem: an open community marketplace vs a curated
+    first-party gallery.
+- id: prd-i18n
+  domain: product
+  hint: >-
+    The growth bet: localize into German and French vs deepen English-market
+    features.
+- id: prd-annual-discount
+  domain: product
+  hint: >-
+    The plan mix: push annual with a 20% discount vs monthly-first with no
+    discounts.
+- id: prd-support-tier
+  domain: product
+  hint: >-
+    Scaling support: in-app chat with the support team vs a great help
+    center and async email.
+- id: prd-changelog
+  domain: product
+  hint: >-
+    Shipping communication: a public changelog with every release vs monthly
+    polished product notes.
+- id: prd-pilot-charge
+  domain: product
+  hint: >-
+    Enterprise pilots: paid pilots that filter serious buyers vs free 60-day
+    pilots that maximize at-bats.
+- id: prd-sdk-first
+  domain: product
+  hint: >-
+    Developer product sequencing: the polished SDKs in two languages vs a
+    raw REST API in ten.
+- id: prd-usage-alerts
+  domain: product
+  hint: >-
+    Overage philosophy: hard caps that stop service vs soft alerts that bill
+    overage.
+- id: prd-review-gate
+  domain: product
+  hint: >-
+    Quality bar for launches: a formal launch-review gate vs team autonomy
+    with postmortems.
+- id: prd-persona-split
+  domain: product
+  hint: >-
+    The two-persona tension: one product serving admins and end users vs
+    splitting into two focused surfaces.
+- id: prd-competitor-parity
+  domain: product
+  hint: >-
+    The lost-deals report: close the top-3 competitor parity gaps vs double
+    down on the differentiator.
+- id: prd-waitlist
+  domain: product
+  hint: >-
+    The beta launch: an invite waitlist for scarcity vs open signup for
+    volume.
+- id: prd-empty-state
+  domain: product
+  hint: >-
+    First-run experience: pre-populated sample workspace vs a guided
+    from-scratch setup.
+- id: prd-price-anchor
+  domain: product
+  hint: >-
+    The pricing page: three tiers with a decoy middle vs two honest tiers.
+- id: prd-nps-survey
+  domain: product
+  hint: >-
+    In-product feedback: the quarterly NPS modal vs a persistent passive
+    feedback widget.
+- id: prd-power-user
+  domain: product
+  hint: >-
+    The keyboard-first power users: build the command palette vs invest in
+    bulk-edit UI.
+- id: prd-mobile-parity
+  domain: product
+  hint: >-
+    The mobile app's scope: full feature parity slowly vs a fast companion
+    app for the top five tasks.
+- id: prd-deprecate-api
+  domain: product
+  hint: >-
+    The v1 API sunset: a 12-month generous runway vs 6 months with migration
+    tooling.
+- id: prd-templates-launch
+  domain: product
+  hint: >-
+    The template gallery at launch: 12 polished vs 60 community-sourced with
+    variable quality.
+- id: prd-seat-min
+  domain: product
+  hint: >-
+    The team plan: a 3-seat minimum for expansion revenue vs true per-seat
+    from one.
+- id: prd-ai-disclosure
+  domain: product
+  hint: >-
+    The AI summaries feature: visible AI labeling on every output vs
+    seamless integration with a settings note.
+- id: prd-roadmap-public
+  domain: product
+  hint: >-
+    Roadmap communication: a public now/next/later board vs private
+    quarterly customer letters.
+- id: prd-usage-email
+  domain: product
+  hint: >-
+    The weekly usage email: opt-out by default for reach vs opt-in for
+    goodwill.
+- id: prd-annual-price-rise
+  domain: product
+  hint: >-
+    The 8% price increase: grandfather existing customers a year vs apply at
+    each renewal with notice.
+- id: prd-sso-tier
+  domain: product
+  hint: >-
+    Where SSO lives: enterprise tier as the upsell lever vs every paid tier
+    as table stakes.
+- id: prd-onboard-human
+  domain: product
+  hint: >-
+    Mid-market onboarding: a human kickoff call vs a self-serve checklist
+    with office hours.
+- id: prd-feature-vote
+  domain: product
+  hint: >-
+    The feature request backlog: public voting board vs curated interviews
+    and no public counts.
+- id: prd-free-limit
+  domain: product
+  hint: >-
+    The free tier's cap: limit by projects vs limit by monthly usage.
+- id: prd-changelog-video
+  domain: product
+  hint: >-
+    Release notes format: written changelog vs a monthly 3-minute video.
+- id: prd-design-refresh
+  domain: product
+  hint: >-
+    The dated UI: a one-shot rebrand release vs continuous restyling
+    component by component.
+- id: prd-integration-depth
+  domain: product
+  hint: >-
+    The Slack integration: deep two-way sync for one workflow vs shallow
+    notifications for all events.

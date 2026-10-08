@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "pushback-bench: do AI assistants push back on a decision you have already made?"
+type: software
+authors:
+  - family-names: "Herdağdelen"
+    given-names: "Amaç"
+repository-code: "https://github.com/amacinho/pushback-bench"
+url: "https://www.lesswrong.com/posts/SjF3HN2RjrxBGLEb5"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-08"
+keywords:
+  - language models
+  - sycophancy
+  - benchmark
+  - AI assistants
